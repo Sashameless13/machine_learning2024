@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Иванов Иван Иванович",
+        "position": "Менеджер",
+        "hire_date": "22.10.2013",
+        "salary": 250000,
+        "bonus": 0,
+        "holiday_bonus": 2000,
+        "indexation": 17500.0
+    },
+    {
+        "name": "Сорокина Екатерина Матвеевна",
+        "position": "Аналитик",
+        "hire_date": "12.03.2020",
+        "salary": 75000,
+        "bonus": 0,
+        "holiday_bonus": 2000,
+        "indexation": 3750.0
+    },
+    {
+        "name": "Струков Иван Сергеевич",
+        "position": "Старший программист",
+        "hire_date": "23.04.2012",
+        "salary": 150000,
+        "bonus": 4500.0,
+        "holiday_bonus": 2000,
+        "indexation": 10500.000000000002
+    },
+    {
+        "name": "Корнеева Анна Игоревна",
+        "position": "Ведущий программист",
+        "hire_date": "22.02.2015",
+        "salary": 120000,
+        "bonus": 3600.0,
+        "holiday_bonus": 2000,
+        "indexation": 6000.0
+    },
+    {
+        "name": "Старчиков Сергей Анатольевич",
+        "position": "Младший программист",
+        "hire_date": "12.11.2021",
+        "salary": 50000,
+        "bonus": 1500.0,
+        "holiday_bonus": 2000,
+        "indexation": 2500.0
+    },
+    {
+        "name": "Бутенко Артем Андреевич",
+        "position": "Архитектор",
+        "hire_date": "12.02.2010",
+        "salary": 200000,
+        "bonus": 0,
+        "holiday_bonus": 2000,
+        "indexation": 14000.000000000002
+    },
+    {
+        "name": "Савченко Алина Сергеевна",
+        "position": "Старший аналитик",
+        "hire_date": "13.04.2016",
+        "salary": 100000,
+        "bonus": 0,
+        "holiday_bonus": 2000,
+        "indexation": 5000.0
+    }
+]
